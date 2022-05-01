@@ -1,3 +1,5 @@
+import static org.junit.Assert.*;
+import org.junit.*;
 public class test{
     @Test
     public void skilltest(){
