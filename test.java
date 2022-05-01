@@ -1,5 +1,5 @@
 public class test{
-    @test
+    @Test
     public void skilltest(){
         assertEquals(2, Skilltest.divide(6,2));
     }
